@@ -1,17 +1,17 @@
-# homebrew-amore
+# homebrew-tap
 
 Homebrew tap for [Amore](https://amore.computer/) — distribute macOS apps with Sparkle, code signing, and notarization.
 
 ## Install
 
 ```bash
-brew install --cask AmoreComputer/amore/amore
+brew install --cask AmoreComputer/tap/amore
 ```
 
 Or tap first, then install:
 
 ```bash
-brew tap AmoreComputer/amore
+brew tap AmoreComputer/tap
 brew install --cask amore
 ```
 
